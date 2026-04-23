@@ -3,7 +3,7 @@
 
 I’m an Electrical and Computer Engineering student at SUNY Albany with a focus on applying mathematics, data analysis, and machine learning to real-world systems. 
 
-My work is grounded in my curiosity and structure. I approach problems by starting with a clear question and objective, then building from the fundamentals--doing background research, understanding the data, creating a working hypothesis, and testing them one step at a time. I value depth and detail over shortcuts because the purpose of my work is not the results but understanding why the results exist and what they mean. My background in graphic design and illustration makes me think about how to communicate my resukts design visuals that make models, assumptions, and outcomes easier to understand.
+My work is grounded in my curiosity and structure. I approach problems by starting with a clear question and objective, then building from the fundamentals--doing background research, understanding the data, creating a working hypothesis, and testing them one step at a time. I value depth and detail over shortcuts because the purpose of my work is not the results but understanding why the results exist and what they mean. My background in graphic design and illustration makes me think about how to communicate my results design visuals that make models, assumptions, and outcomes easier to understand.
 
 ## Technical Stack 
 * Languages: Python, Java, and MATLAB, with working knowledge of SQL
